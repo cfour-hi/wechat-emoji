@@ -9,7 +9,7 @@ import { as, bs } from './alts';
 const createEmojiImg = (i) => {
   const img = document.createElement('img');
   img.src =
-    'https://frontend-static-cdn.shiguangkey.com/tz-wechat-emoji/pic_blank.gif';
+    'https://mp.weixin.qq.com/mpres/zh_CN/htmledition/comm_htmledition/images/pic/common/pic_blank.gif';
   img.classList.add(styles['emoji-item__icon']);
   img.style.backgroundPosition = `0px -${i * 20}px`;
   return img;

@@ -1,5 +1,7 @@
 # @znlbwo/wechat-emoji
 
+[![Coverage Status](https://coveralls.io/repos/github/znlbwo/wechat-emoji/badge.svg)](https://coveralls.io/github/znlbwo/wechat-emoji)
+
 > 微信 emoji 表情插件，包含表情面板、文字转表情功能。
 
 ## 项目说明
